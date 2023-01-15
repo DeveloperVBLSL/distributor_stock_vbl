@@ -1,5 +1,6 @@
 <?php
 
+
 include ('error.php');
 
 
@@ -61,7 +62,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST")
 <!DOCTYPE html>    
 <html>    
 <head>    
-    <title>Login Form</title>    
+    <title>VBL Stock Management System/title>    
     <link rel="stylesheet" type="text/css" href="styles/style.css">    
 </head>    
 <body>
